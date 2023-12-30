@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiandiblasi&label=Profile%20views&color=0e75b6&style=flat" alt="kristiandiblasi" /> </p>
 
+- 🌱 I’m currently learning **NodeJs, React**
+
+- 💬 Ask me about **Salesforce, Apex, Python, Html, Javascript, CSS, PHP**
+
+- 📫 How to reach me **kristiandiblasi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kristiandiblasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiandiblasi" height="30" width="40" /></a>
@@ -16,7 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiandiblasi&show_icons=true&locale=en&layout=compact" alt="kristiandiblasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristiandiblasi&show_icons=true&locale=en" alt="kristiandiblasi" /></p>
-
 
 
 <!--
